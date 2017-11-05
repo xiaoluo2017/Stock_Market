@@ -1,12 +1,11 @@
 # Stock_Market
-Track stocks, users can customize the stocks they are interested in<br/>
+Track stocks, users can customize their concerned stocks<br/>
 
 <p align="center" margin-bottom="0">
   <a href="http://www.hnclone.win" target="_blank">
     <img alt="Stock Market Clone Demo" width="auto" height="auto" src="https://github.com/xiaoluo2017/Stock_Market/blob/master/images/Capture.PNG">
   </a>
 </p>
-
 <p align="center">
   <a href="https://boiling-shelf-18505.herokuapp.com/">Live Demo</a>
 </p>
