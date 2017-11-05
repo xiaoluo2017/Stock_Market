@@ -239,6 +239,7 @@ class Chart extends Component {
                   this.setState({
                     stocks: this.state.stocks.slice(0, i).concat(this.state.stocks.slice(i + 1))
                   });
+                  functionLock = false;
                 }
               }}
               />
