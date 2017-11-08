@@ -7,7 +7,7 @@ Track stocks, users can customize their concerned stocks<br/>
   </a>
 </p>
 <p align="center">
-  <a href="https://boiling-shelf-18505.herokuapp.com/">Live Demo</a>
+  <a href="https://guarded-lowlands-11750.herokuapp.com/">Live Demo</a>
 </p>
 
 ## Getting Started
