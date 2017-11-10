@@ -2,7 +2,7 @@
 Track stocks, users can customize their concerned stocks<br/>
 
 <p align="center" margin-bottom="0">
-  <a href="http://www.hnclone.win" target="_blank">
+  <a href="https://guarded-lowlands-11750.herokuapp.com/" target="_blank">
     <img alt="Stock Market Clone Demo" width="auto" height="auto" src="https://github.com/xiaoluo2017/Stock_Market/blob/master/images/Capture.PNG">
   </a>
 </p>
