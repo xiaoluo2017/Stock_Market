@@ -18,7 +18,7 @@ git clone https://github.com/xiaoluo2017/Stock_Market.git
 * Set the DATEBASE_URL in ```./route/config.js```
 * Install dependencies for the back-end 
 ```
-cd Voting_app && npm install
+cd Stock_Market && npm install
 ```
 * Run the back-end 
 ```
